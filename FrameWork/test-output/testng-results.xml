@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54118" started-at="2019-02-26T10:59:21Z" finished-at="2019-02-26T11:00:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54118" started-at="2019-02-26T10:59:21Z" finished-at="2019-02-26T11:00:15Z">
+      <class name="QSpisers.Chrome">
+        <test-method status="PASS" signature="testA()[pri:0, instance:QSpisers.Chrome@7823a2f9]" name="testA" duration-ms="54059" started-at="2019-02-26T16:29:21Z" finished-at="2019-02-26T16:30:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+      </class> <!-- QSpisers.Chrome -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
